@@ -1,5 +1,3 @@
-# Programa: Cálculo de distância e velocidade de um veículo
-# Data: 04/04/2025
 # Autor(a): Yara Beatriz Silva Santos
 
 # Biblioteca importada
