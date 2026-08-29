@@ -1,7 +1,7 @@
 # Programa de Cálculo - Índice de Massa Corporal (IMC)
 # Apresente o IMC e classifique de acordo com a tabela
 # Autor(a): Yara Beatriz Silva Santos
-# Data: 17/05/2025
+
 
 # Variável para armazenar a escolha do usuário em continuar o programa
 escolha = ""
