@@ -1,7 +1,7 @@
 # =========================================================
 # Projeto: Express Log - Sistema de Entregas (CRUD)
 # Módulo: pacotes.py - regras de negócio das entregas
-# Autoras: Yara Beatriz Silva Santos e Laura Duarte da Silva
+# Autoras: Yara Beatriz Silva Santos
 # UMC - Universidade de Mogi das Cruzes
 # =========================================================
 
