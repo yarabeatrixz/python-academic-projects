@@ -1,6 +1,6 @@
 # =========================================================
 # Projeto: Express Log - Sistema de Entregas (CRUD)
-# Autoras: Yara Beatriz Silva Santos e Laura Duarte da Silva
+# Autoras: Yara Beatriz Silva Santos
 # UMC - Universidade de Mogi das Cruzes
 # =========================================================
 
