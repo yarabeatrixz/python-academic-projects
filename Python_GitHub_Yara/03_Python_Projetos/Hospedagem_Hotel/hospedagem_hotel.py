@@ -1,5 +1,4 @@
 # Programa: Cálculo de Hospedagem em Hotel
-# Data: 12/04/2025
 # Autor(a): Yara Beatriz Silva Santos
 
 # Título
